@@ -1,0 +1,602 @@
+<reisid>
+  <reis sihtkoha_linn="Jiangchang">
+    <sihtkoha_linn>Jiangchang</sihtkoha_linn>
+    <hind>€974,76</hind>
+    <inimeste_arv>4</inimeste_arv>
+    <kuupaev>2023-11-05</kuupaev>
+    <hotell>
+      <hotelli_aadress>42 Kennedy Pass</hotelli_aadress>
+      <toitumine_kaasas>1</toitumine_kaasas>
+      <hotelli_tarnide>5</hotelli_tarnide>
+      <oode_arv>12</oode_arv>
+    </hotell>
+  </reis>
+  <reis sihtkoha_linn="Hanamaki">
+    <sihtkoha_linn>Hanamaki</sihtkoha_linn>
+    <hind>€720,32</hind>
+    <inimeste_arv>1</inimeste_arv>
+    <kuupaev>2024-08-07</kuupaev>
+    <hotell>
+      <hotelli_aadress>33709 Stuart Park</hotelli_aadress>
+      <toitumine_kaasas>1</toitumine_kaasas>
+      <hotelli_tarnide>5</hotelli_tarnide>
+      <oode_arv>14</oode_arv>
+    </hotell>
+  </reis>
+  <reis sihtkoha_linn="Tobilolong">
+    <sihtkoha_linn>Tobilolong</sihtkoha_linn>
+    <hind>€521,70</hind>
+    <inimeste_arv>9</inimeste_arv>
+    <kuupaev>2024-02-08</kuupaev>
+    <hotell>
+      <hotelli_aadress>23678 Trailsway Street</hotelli_aadress>
+      <toitumine_kaasas>1</toitumine_kaasas>
+      <hotelli_tarnide>5</hotelli_tarnide>
+      <oode_arv>14</oode_arv>
+    </hotell>
+  </reis>
+  <reis sihtkoha_linn="Vejprnice">
+    <sihtkoha_linn>Vejprnice</sihtkoha_linn>
+    <hind>€871,73</hind>
+    <inimeste_arv>4</inimeste_arv>
+    <kuupaev>2023-11-27</kuupaev>
+    <hotell>
+      <hotelli_aadress>958 Evergreen Street</hotelli_aadress>
+      <toitumine_kaasas>1</toitumine_kaasas>
+      <hotelli_tarnide>3</hotelli_tarnide>
+      <oode_arv>17</oode_arv>
+    </hotell>
+  </reis>
+  <reis sihtkoha_linn="Višnové">
+    <sihtkoha_linn>Višnové</sihtkoha_linn>
+    <hind>€160,78</hind>
+    <inimeste_arv>1</inimeste_arv>
+    <kuupaev>2024-04-24</kuupaev>
+    <hotell>
+      <hotelli_aadress>305 Springview Crossing</hotelli_aadress>
+      <toitumine_kaasas>0</toitumine_kaasas>
+      <hotelli_tarnide>4</hotelli_tarnide>
+      <oode_arv>14</oode_arv>
+    </hotell>
+  </reis>
+  <reis sihtkoha_linn="Gjøvik">
+    <sihtkoha_linn>Gjøvik</sihtkoha_linn>
+    <hind>€750,39</hind>
+    <inimeste_arv>1</inimeste_arv>
+    <kuupaev>2023-12-30</kuupaev>
+    <hotell>
+      <hotelli_aadress>43309 Bunting Avenue</hotelli_aadress>
+      <toitumine_kaasas>1</toitumine_kaasas>
+      <hotelli_tarnide>4</hotelli_tarnide>
+      <oode_arv>6</oode_arv>
+    </hotell>
+  </reis>
+  <reis sihtkoha_linn="Karpokhórion">
+    <sihtkoha_linn>Karpokhórion</sihtkoha_linn>
+    <hind>€987,79</hind>
+    <inimeste_arv>7</inimeste_arv>
+    <kuupaev>2024-07-28</kuupaev>
+    <hotell>
+      <hotelli_aadress>10 Atwood Parkway</hotelli_aadress>
+      <toitumine_kaasas>0</toitumine_kaasas>
+      <hotelli_tarnide>3</hotelli_tarnide>
+      <oode_arv>9</oode_arv>
+    </hotell>
+  </reis>
+  <reis sihtkoha_linn="Lykóvrysi">
+    <sihtkoha_linn>Lykóvrysi</sihtkoha_linn>
+    <hind>€751,43</hind>
+    <inimeste_arv>1</inimeste_arv>
+    <kuupaev>2024-07-04</kuupaev>
+    <hotell>
+      <hotelli_aadress>696 Ridge Oak Pass</hotelli_aadress>
+      <toitumine_kaasas>1</toitumine_kaasas>
+      <hotelli_tarnide>3</hotelli_tarnide>
+      <oode_arv>10</oode_arv>
+    </hotell>
+  </reis>
+  <reis sihtkoha_linn="Dongchong">
+    <sihtkoha_linn>Dongchong</sihtkoha_linn>
+    <hind>€900,56</hind>
+    <inimeste_arv>1</inimeste_arv>
+    <kuupaev>2023-11-09</kuupaev>
+    <hotell>
+      <hotelli_aadress>41 Debra Crossing</hotelli_aadress>
+      <toitumine_kaasas>0</toitumine_kaasas>
+      <hotelli_tarnide>4</hotelli_tarnide>
+      <oode_arv>16</oode_arv>
+    </hotell>
+  </reis>
+  <reis sihtkoha_linn="Bandung">
+    <sihtkoha_linn>Bandung</sihtkoha_linn>
+    <hind>€314,64</hind>
+    <inimeste_arv>1</inimeste_arv>
+    <kuupaev>2024-05-12</kuupaev>
+    <hotell>
+      <hotelli_aadress>42769 Cordelia Lane</hotelli_aadress>
+      <toitumine_kaasas>1</toitumine_kaasas>
+      <hotelli_tarnide>1</hotelli_tarnide>
+      <oode_arv>10</oode_arv>
+    </hotell>
+  </reis>
+  <reis sihtkoha_linn="Hetang">
+    <sihtkoha_linn>Hetang</sihtkoha_linn>
+    <hind>€310,83</hind>
+    <inimeste_arv>6</inimeste_arv>
+    <kuupaev>2024-06-12</kuupaev>
+    <hotell>
+      <hotelli_aadress>4040 Mosinee Place</hotelli_aadress>
+      <toitumine_kaasas>1</toitumine_kaasas>
+      <hotelli_tarnide>1</hotelli_tarnide>
+      <oode_arv>8</oode_arv>
+    </hotell>
+  </reis>
+  <reis sihtkoha_linn="Farsta">
+    <sihtkoha_linn>Farsta</sihtkoha_linn>
+    <hind>€865,95</hind>
+    <inimeste_arv>6</inimeste_arv>
+    <kuupaev>2024-08-05</kuupaev>
+    <hotell>
+      <hotelli_aadress>7002 Oakridge Crossing</hotelli_aadress>
+      <toitumine_kaasas>1</toitumine_kaasas>
+      <hotelli_tarnide>2</hotelli_tarnide>
+      <oode_arv>7</oode_arv>
+    </hotell>
+  </reis>
+  <reis sihtkoha_linn="Wadi">
+    <sihtkoha_linn>Wadi</sihtkoha_linn>
+    <hind>€458,27</hind>
+    <inimeste_arv>2</inimeste_arv>
+    <kuupaev>2024-07-14</kuupaev>
+    <hotell>
+      <hotelli_aadress>75 Melvin Drive</hotelli_aadress>
+      <toitumine_kaasas>0</toitumine_kaasas>
+      <hotelli_tarnide>3</hotelli_tarnide>
+      <oode_arv>4</oode_arv>
+    </hotell>
+  </reis>
+  <reis sihtkoha_linn="Hägersten">
+    <sihtkoha_linn>Hägersten</sihtkoha_linn>
+    <hind>€470,17</hind>
+    <inimeste_arv>1</inimeste_arv>
+    <kuupaev>2023-11-02</kuupaev>
+    <hotell>
+      <hotelli_aadress>2 Heffernan Terrace</hotelli_aadress>
+      <toitumine_kaasas>0</toitumine_kaasas>
+      <hotelli_tarnide>2</hotelli_tarnide>
+      <oode_arv>16</oode_arv>
+    </hotell>
+  </reis>
+  <reis sihtkoha_linn="Skaramangás">
+    <sihtkoha_linn>Skaramangás</sihtkoha_linn>
+    <hind>€500,00</hind>
+    <inimeste_arv>8</inimeste_arv>
+    <kuupaev>2024-09-02</kuupaev>
+    <hotell>
+      <hotelli_aadress>9 Stone Corner Center</hotelli_aadress>
+      <toitumine_kaasas>1</toitumine_kaasas>
+      <hotelli_tarnide>5</hotelli_tarnide>
+      <oode_arv>12</oode_arv>
+    </hotell>
+  </reis>
+  <reis sihtkoha_linn="Iznoski">
+    <sihtkoha_linn>Iznoski</sihtkoha_linn>
+    <hind>€231,96</hind>
+    <inimeste_arv>5</inimeste_arv>
+    <kuupaev>2023-09-14</kuupaev>
+    <hotell>
+      <hotelli_aadress>49 Sycamore Center</hotelli_aadress>
+      <toitumine_kaasas>1</toitumine_kaasas>
+      <hotelli_tarnide>2</hotelli_tarnide>
+      <oode_arv>5</oode_arv>
+    </hotell>
+  </reis>
+  <reis sihtkoha_linn="Shalqiya">
+    <sihtkoha_linn>Shalqiya</sihtkoha_linn>
+    <hind>€237,17</hind>
+    <inimeste_arv>9</inimeste_arv>
+    <kuupaev>2023-12-11</kuupaev>
+    <hotell>
+      <hotelli_aadress>789 Towne Court</hotelli_aadress>
+      <toitumine_kaasas>1</toitumine_kaasas>
+      <hotelli_tarnide>2</hotelli_tarnide>
+      <oode_arv>18</oode_arv>
+    </hotell>
+  </reis>
+  <reis sihtkoha_linn="Täby">
+    <sihtkoha_linn>Täby</sihtkoha_linn>
+    <hind>€530,11</hind>
+    <inimeste_arv>7</inimeste_arv>
+    <kuupaev>2024-02-04</kuupaev>
+    <hotell>
+      <hotelli_aadress>2306 Carey Way</hotelli_aadress>
+      <toitumine_kaasas>0</toitumine_kaasas>
+      <hotelli_tarnide>2</hotelli_tarnide>
+      <oode_arv>20</oode_arv>
+    </hotell>
+  </reis>
+  <reis sihtkoha_linn="Balogo">
+    <sihtkoha_linn>Balogo</sihtkoha_linn>
+    <hind>€604,41</hind>
+    <inimeste_arv>3</inimeste_arv>
+    <kuupaev>2023-12-31</kuupaev>
+    <hotell>
+      <hotelli_aadress>9 Melody Circle</hotelli_aadress>
+      <toitumine_kaasas>0</toitumine_kaasas>
+      <hotelli_tarnide>4</hotelli_tarnide>
+      <oode_arv>1</oode_arv>
+    </hotell>
+  </reis>
+  <reis sihtkoha_linn="Youlan">
+    <sihtkoha_linn>Youlan</sihtkoha_linn>
+    <hind>€822,13</hind>
+    <inimeste_arv>6</inimeste_arv>
+    <kuupaev>2024-06-15</kuupaev>
+    <hotell>
+      <hotelli_aadress>8649 Vidon Terrace</hotelli_aadress>
+      <toitumine_kaasas>0</toitumine_kaasas>
+      <hotelli_tarnide>5</hotelli_tarnide>
+      <oode_arv>18</oode_arv>
+    </hotell>
+  </reis>
+  <reis sihtkoha_linn="Liverpool">
+    <sihtkoha_linn>Liverpool</sihtkoha_linn>
+    <hind>€104,04</hind>
+    <inimeste_arv>7</inimeste_arv>
+    <kuupaev>2024-02-16</kuupaev>
+    <hotell>
+      <hotelli_aadress>97256 Norway Maple Plaza</hotelli_aadress>
+      <toitumine_kaasas>1</toitumine_kaasas>
+      <hotelli_tarnide>1</hotelli_tarnide>
+      <oode_arv>3</oode_arv>
+    </hotell>
+  </reis>
+  <reis sihtkoha_linn="Bzou">
+    <sihtkoha_linn>Bzou</sihtkoha_linn>
+    <hind>€962,78</hind>
+    <inimeste_arv>1</inimeste_arv>
+    <kuupaev>2024-02-14</kuupaev>
+    <hotell>
+      <hotelli_aadress>48256 Michigan Pass</hotelli_aadress>
+      <toitumine_kaasas>1</toitumine_kaasas>
+      <hotelli_tarnide>3</hotelli_tarnide>
+      <oode_arv>19</oode_arv>
+    </hotell>
+  </reis>
+  <reis sihtkoha_linn="Jinshan">
+    <sihtkoha_linn>Jinshan</sihtkoha_linn>
+    <hind>€130,92</hind>
+    <inimeste_arv>2</inimeste_arv>
+    <kuupaev>2024-01-28</kuupaev>
+    <hotell>
+      <hotelli_aadress>8546 Mcguire Junction</hotelli_aadress>
+      <toitumine_kaasas>1</toitumine_kaasas>
+      <hotelli_tarnide>1</hotelli_tarnide>
+      <oode_arv>17</oode_arv>
+    </hotell>
+  </reis>
+  <reis sihtkoha_linn="Tongkiling">
+    <sihtkoha_linn>Tongkiling</sihtkoha_linn>
+    <hind>€209,71</hind>
+    <inimeste_arv>3</inimeste_arv>
+    <kuupaev>2024-02-09</kuupaev>
+    <hotell>
+      <hotelli_aadress>17400 Dapin Terrace</hotelli_aadress>
+      <toitumine_kaasas>1</toitumine_kaasas>
+      <hotelli_tarnide>5</hotelli_tarnide>
+      <oode_arv>14</oode_arv>
+    </hotell>
+  </reis>
+  <reis sihtkoha_linn="Huancheng">
+    <sihtkoha_linn>Huancheng</sihtkoha_linn>
+    <hind>€746,86</hind>
+    <inimeste_arv>7</inimeste_arv>
+    <kuupaev>2023-12-13</kuupaev>
+    <hotell>
+      <hotelli_aadress>33 Crest Line Drive</hotelli_aadress>
+      <toitumine_kaasas>1</toitumine_kaasas>
+      <hotelli_tarnide>5</hotelli_tarnide>
+      <oode_arv>19</oode_arv>
+    </hotell>
+  </reis>
+  <reis sihtkoha_linn="Yamazakicho-nakabirose">
+    <sihtkoha_linn>Yamazakicho-nakabirose</sihtkoha_linn>
+    <hind>€391,50</hind>
+    <inimeste_arv>6</inimeste_arv>
+    <kuupaev>2023-10-22</kuupaev>
+    <hotell>
+      <hotelli_aadress>2 Schiller Way</hotelli_aadress>
+      <toitumine_kaasas>0</toitumine_kaasas>
+      <hotelli_tarnide>4</hotelli_tarnide>
+      <oode_arv>1</oode_arv>
+    </hotell>
+  </reis>
+  <reis sihtkoha_linn="Yushu">
+    <sihtkoha_linn>Yushu</sihtkoha_linn>
+    <hind>€323,87</hind>
+    <inimeste_arv>8</inimeste_arv>
+    <kuupaev>2024-05-03</kuupaev>
+    <hotell>
+      <hotelli_aadress>89868 Goodland Road</hotelli_aadress>
+      <toitumine_kaasas>1</toitumine_kaasas>
+      <hotelli_tarnide>1</hotelli_tarnide>
+      <oode_arv>16</oode_arv>
+    </hotell>
+  </reis>
+  <reis sihtkoha_linn="Sezimovo Ústí">
+    <sihtkoha_linn>Sezimovo Ústí</sihtkoha_linn>
+    <hind>€261,33</hind>
+    <inimeste_arv>2</inimeste_arv>
+    <kuupaev>2024-02-03</kuupaev>
+    <hotell>
+      <hotelli_aadress>7635 Anthes Road</hotelli_aadress>
+      <toitumine_kaasas>1</toitumine_kaasas>
+      <hotelli_tarnide>3</hotelli_tarnide>
+      <oode_arv>11</oode_arv>
+    </hotell>
+  </reis>
+  <reis sihtkoha_linn="Yanmenguan">
+    <sihtkoha_linn>Yanmenguan</sihtkoha_linn>
+    <hind>€638,63</hind>
+    <inimeste_arv>10</inimeste_arv>
+    <kuupaev>2024-03-16</kuupaev>
+    <hotell>
+      <hotelli_aadress>1223 Red Cloud Drive</hotelli_aadress>
+      <toitumine_kaasas>1</toitumine_kaasas>
+      <hotelli_tarnide>3</hotelli_tarnide>
+      <oode_arv>13</oode_arv>
+    </hotell>
+  </reis>
+  <reis sihtkoha_linn="Cayambe">
+    <sihtkoha_linn>Cayambe</sihtkoha_linn>
+    <hind>€449,28</hind>
+    <inimeste_arv>4</inimeste_arv>
+    <kuupaev>2024-03-15</kuupaev>
+    <hotell>
+      <hotelli_aadress>47060 Loeprich Circle</hotelli_aadress>
+      <toitumine_kaasas>0</toitumine_kaasas>
+      <hotelli_tarnide>5</hotelli_tarnide>
+      <oode_arv>9</oode_arv>
+    </hotell>
+  </reis>
+  <reis sihtkoha_linn="Ampanihy">
+    <sihtkoha_linn>Ampanihy</sihtkoha_linn>
+    <hind>€198,78</hind>
+    <inimeste_arv>10</inimeste_arv>
+    <kuupaev>2024-04-03</kuupaev>
+    <hotell>
+      <hotelli_aadress>35205 Coolidge Park</hotelli_aadress>
+      <toitumine_kaasas>1</toitumine_kaasas>
+      <hotelli_tarnide>1</hotelli_tarnide>
+      <oode_arv>9</oode_arv>
+    </hotell>
+  </reis>
+  <reis sihtkoha_linn="Athens">
+    <sihtkoha_linn>Athens</sihtkoha_linn>
+    <hind>€836,07</hind>
+    <inimeste_arv>4</inimeste_arv>
+    <kuupaev>2024-03-19</kuupaev>
+    <hotell>
+      <hotelli_aadress>511 International Point</hotelli_aadress>
+      <toitumine_kaasas>1</toitumine_kaasas>
+      <hotelli_tarnide>1</hotelli_tarnide>
+      <oode_arv>7</oode_arv>
+    </hotell>
+  </reis>
+  <reis sihtkoha_linn="Dalbandin">
+    <sihtkoha_linn>Dalbandin</sihtkoha_linn>
+    <hind>€198,06</hind>
+    <inimeste_arv>10</inimeste_arv>
+    <kuupaev>2024-07-03</kuupaev>
+    <hotell>
+      <hotelli_aadress>51 Elka Park</hotelli_aadress>
+      <toitumine_kaasas>0</toitumine_kaasas>
+      <hotelli_tarnide>2</hotelli_tarnide>
+      <oode_arv>13</oode_arv>
+    </hotell>
+  </reis>
+  <reis sihtkoha_linn="El Pino">
+    <sihtkoha_linn>El Pino</sihtkoha_linn>
+    <hind>€961,96</hind>
+    <inimeste_arv>2</inimeste_arv>
+    <kuupaev>2024-01-25</kuupaev>
+    <hotell>
+      <hotelli_aadress>1 Hallows Crossing</hotelli_aadress>
+      <toitumine_kaasas>1</toitumine_kaasas>
+      <hotelli_tarnide>4</hotelli_tarnide>
+      <oode_arv>15</oode_arv>
+    </hotell>
+  </reis>
+  <reis sihtkoha_linn="Huyunxiang">
+    <sihtkoha_linn>Huyunxiang</sihtkoha_linn>
+    <hind>€241,19</hind>
+    <inimeste_arv>6</inimeste_arv>
+    <kuupaev>2024-05-24</kuupaev>
+    <hotell>
+      <hotelli_aadress>215 Huxley Point</hotelli_aadress>
+      <toitumine_kaasas>1</toitumine_kaasas>
+      <hotelli_tarnide>2</hotelli_tarnide>
+      <oode_arv>1</oode_arv>
+    </hotell>
+  </reis>
+  <reis sihtkoha_linn="Shlissel’burg">
+    <sihtkoha_linn>Shlissel’burg</sihtkoha_linn>
+    <hind>€792,45</hind>
+    <inimeste_arv>7</inimeste_arv>
+    <kuupaev>2023-10-24</kuupaev>
+    <hotell>
+      <hotelli_aadress>84673 Farragut Point</hotelli_aadress>
+      <toitumine_kaasas>1</toitumine_kaasas>
+      <hotelli_tarnide>2</hotelli_tarnide>
+      <oode_arv>15</oode_arv>
+    </hotell>
+  </reis>
+  <reis sihtkoha_linn="San Rafael">
+    <sihtkoha_linn>San Rafael</sihtkoha_linn>
+    <hind>€532,83</hind>
+    <inimeste_arv>10</inimeste_arv>
+    <kuupaev>2024-03-27</kuupaev>
+    <hotell>
+      <hotelli_aadress>9850 Utah Center</hotelli_aadress>
+      <toitumine_kaasas>1</toitumine_kaasas>
+      <hotelli_tarnide>5</hotelli_tarnide>
+      <oode_arv>16</oode_arv>
+    </hotell>
+  </reis>
+  <reis sihtkoha_linn="Chumpi">
+    <sihtkoha_linn>Chumpi</sihtkoha_linn>
+    <hind>€457,87</hind>
+    <inimeste_arv>7</inimeste_arv>
+    <kuupaev>2023-09-28</kuupaev>
+    <hotell>
+      <hotelli_aadress>95 Delladonna Parkway</hotelli_aadress>
+      <toitumine_kaasas>0</toitumine_kaasas>
+      <hotelli_tarnide>2</hotelli_tarnide>
+      <oode_arv>14</oode_arv>
+    </hotell>
+  </reis>
+  <reis sihtkoha_linn="Pultusk">
+    <sihtkoha_linn>Pultusk</sihtkoha_linn>
+    <hind>€839,73</hind>
+    <inimeste_arv>1</inimeste_arv>
+    <kuupaev>2024-05-17</kuupaev>
+    <hotell>
+      <hotelli_aadress>43 Main Street</hotelli_aadress>
+      <toitumine_kaasas>1</toitumine_kaasas>
+      <hotelli_tarnide>2</hotelli_tarnide>
+      <oode_arv>20</oode_arv>
+    </hotell>
+  </reis>
+  <reis sihtkoha_linn="Baiyang">
+    <sihtkoha_linn>Baiyang</sihtkoha_linn>
+    <hind>€730,00</hind>
+    <inimeste_arv>2</inimeste_arv>
+    <kuupaev>2023-11-08</kuupaev>
+    <hotell>
+      <hotelli_aadress>0478 Tennessee Place</hotelli_aadress>
+      <toitumine_kaasas>0</toitumine_kaasas>
+      <hotelli_tarnide>1</hotelli_tarnide>
+      <oode_arv>9</oode_arv>
+    </hotell>
+  </reis>
+  <reis sihtkoha_linn="Ixopo">
+    <sihtkoha_linn>Ixopo</sihtkoha_linn>
+    <hind>€597,02</hind>
+    <inimeste_arv>3</inimeste_arv>
+    <kuupaev>2024-07-17</kuupaev>
+    <hotell>
+      <hotelli_aadress>0 Dovetail Way</hotelli_aadress>
+      <toitumine_kaasas>1</toitumine_kaasas>
+      <hotelli_tarnide>1</hotelli_tarnide>
+      <oode_arv>2</oode_arv>
+    </hotell>
+  </reis>
+  <reis sihtkoha_linn="Bangxi">
+    <sihtkoha_linn>Bangxi</sihtkoha_linn>
+    <hind>€365,39</hind>
+    <inimeste_arv>10</inimeste_arv>
+    <kuupaev>2024-07-15</kuupaev>
+    <hotell>
+      <hotelli_aadress>0 Forest Drive</hotelli_aadress>
+      <toitumine_kaasas>1</toitumine_kaasas>
+      <hotelli_tarnide>2</hotelli_tarnide>
+      <oode_arv>8</oode_arv>
+    </hotell>
+  </reis>
+  <reis sihtkoha_linn="Vale de Açores">
+    <sihtkoha_linn>Vale de Açores</sihtkoha_linn>
+    <hind>€105,39</hind>
+    <inimeste_arv>10</inimeste_arv>
+    <kuupaev>2023-10-06</kuupaev>
+    <hotell>
+      <hotelli_aadress>570 Lakewood Center</hotelli_aadress>
+      <toitumine_kaasas>1</toitumine_kaasas>
+      <hotelli_tarnide>3</hotelli_tarnide>
+      <oode_arv>9</oode_arv>
+    </hotell>
+  </reis>
+  <reis sihtkoha_linn="Pryazovs’ke">
+    <sihtkoha_linn>Pryazovs’ke</sihtkoha_linn>
+    <hind>€433,65</hind>
+    <inimeste_arv>1</inimeste_arv>
+    <kuupaev>2024-07-25</kuupaev>
+    <hotell>
+      <hotelli_aadress>668 Independence Trail</hotelli_aadress>
+      <toitumine_kaasas>0</toitumine_kaasas>
+      <hotelli_tarnide>3</hotelli_tarnide>
+      <oode_arv>15</oode_arv>
+    </hotell>
+  </reis>
+  <reis sihtkoha_linn="Wan’an">
+    <sihtkoha_linn>Wan’an</sihtkoha_linn>
+    <hind>€132,24</hind>
+    <inimeste_arv>8</inimeste_arv>
+    <kuupaev>2024-04-03</kuupaev>
+    <hotell>
+      <hotelli_aadress>78589 Northport Park</hotelli_aadress>
+      <toitumine_kaasas>0</toitumine_kaasas>
+      <hotelli_tarnide>4</hotelli_tarnide>
+      <oode_arv>8</oode_arv>
+    </hotell>
+  </reis>
+  <reis sihtkoha_linn="Maripa">
+    <sihtkoha_linn>Maripa</sihtkoha_linn>
+    <hind>€461,34</hind>
+    <inimeste_arv>7</inimeste_arv>
+    <kuupaev>2024-07-04</kuupaev>
+    <hotell>
+      <hotelli_aadress>5243 Fair Oaks Junction</hotelli_aadress>
+      <toitumine_kaasas>1</toitumine_kaasas>
+      <hotelli_tarnide>4</hotelli_tarnide>
+      <oode_arv>3</oode_arv>
+    </hotell>
+  </reis>
+  <reis sihtkoha_linn="Guatimozín">
+    <sihtkoha_linn>Guatimozín</sihtkoha_linn>
+    <hind>€642,10</hind>
+    <inimeste_arv>8</inimeste_arv>
+    <kuupaev>2024-02-14</kuupaev>
+    <hotell>
+      <hotelli_aadress>77509 Fallview Alley</hotelli_aadress>
+      <toitumine_kaasas>1</toitumine_kaasas>
+      <hotelli_tarnide>3</hotelli_tarnide>
+      <oode_arv>18</oode_arv>
+    </hotell>
+  </reis>
+  <reis sihtkoha_linn="Lyantonde">
+    <sihtkoha_linn>Lyantonde</sihtkoha_linn>
+    <hind>€255,19</hind>
+    <inimeste_arv>9</inimeste_arv>
+    <kuupaev>2024-07-16</kuupaev>
+    <hotell>
+      <hotelli_aadress>28012 Milwaukee Terrace</hotelli_aadress>
+      <toitumine_kaasas>1</toitumine_kaasas>
+      <hotelli_tarnide>1</hotelli_tarnide>
+      <oode_arv>21</oode_arv>
+    </hotell>
+  </reis>
+  <reis sihtkoha_linn="Kurylówka">
+    <sihtkoha_linn>Kurylówka</sihtkoha_linn>
+    <hind>€383,48</hind>
+    <inimeste_arv>3</inimeste_arv>
+    <kuupaev>2024-09-06</kuupaev>
+    <hotell>
+      <hotelli_aadress>49 Westport Avenue</hotelli_aadress>
+      <toitumine_kaasas>0</toitumine_kaasas>
+      <hotelli_tarnide>1</hotelli_tarnide>
+      <oode_arv>15</oode_arv>
+    </hotell>
+  </reis>
+  <reis sihtkoha_linn="Atalhada">
+    <sihtkoha_linn>Atalhada</sihtkoha_linn>
+    <hind>€341,27</hind>
+    <inimeste_arv>6</inimeste_arv>
+    <kuupaev>2023-11-21</kuupaev>
+    <hotell>
+      <hotelli_aadress>2 Cambridge Center</hotelli_aadress>
+      <toitumine_kaasas>0</toitumine_kaasas>
+      <hotelli_tarnide>3</hotelli_tarnide>
+      <oode_arv>14</oode_arv>
+    </hotell>
+  </reis>
+</reisid>
