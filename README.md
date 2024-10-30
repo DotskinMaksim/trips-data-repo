@@ -1,5 +1,3 @@
----
-
 ### 1. Reisi Sihtkoht
 - **Kuvada iga reisi sihtkoht pealkirjana**, kasutades `<h1>`.
 
@@ -49,5 +47,3 @@
 ![XSD Diagramm](https://github.com/user-attachments/assets/b289b6f7-0f92-4fb4-98d5-05a9f2784168)  
 ![XML Fail](https://github.com/user-attachments/assets/885586d7-cfe8-49e8-9830-51c45bb29e0c)  
 ![XML Diagramm](https://github.com/user-attachments/assets/82c0fd42-a09b-4ee8-95ca-0ceac95bc7ce)
-
---- 
