@@ -44,17 +44,17 @@
 
 ### Oma Ülesanded XML Kohta
 
-1. **Kuvada sihtlinnad**, mille reisikuupäev oli eelmisel aastal.
+### 1. Kuvada sihtlinnad, mille reisikuupäev oli eelmisel aastal.
 <div style="border: 2px solid #000; padding: 10px; display: inline-block;">
     <img src="https://github.com/user-attachments/assets/46c3daa4-5993-48db-a1ab-e9db62722e8d" alt="Sihtlinnad" style="max-width: 100%; height: auto;">
 </div>
 
-2. **Loetleda linnanimed** tähestikulises järjekorras.
+### 2. Loetleda linnanimed** tähestikulises järjekorras.
 <div style="border: 2px solid #000; padding: 10px; display: inline-block;">
     <img src="https://github.com/user-attachments/assets/2eacfcad-2cc7-4b62-b804-2d75ab04e2c5" alt="Linnanimed" style="max-width: 100%; height: auto;">
 </div>
 
-3. **Kuvada linn ja sinna reisimise maksumus**, kuid Hiina jüaanides vahetuskursi järgi.
+### 3. Kuvada linn ja sinna reisimise maksumus**, kuid Hiina jüaanides vahetuskursi järgi.
 <div style="border: 2px solid #000; padding: 10px; display: inline-block;">
     <img src="https://github.com/user-attachments/assets/978bf2b6-66b5-4de0-8e38-5c176663cbfd" alt="Reisimise maksumus" style="max-width: 100%; height: auto;">
 </div>
