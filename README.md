@@ -36,9 +36,10 @@
    ![Sihtlinnad](https://github.com/user-attachments/assets/46c3daa4-5993-48db-a1ab-e9db62722e8d)
 
 2. **Loetleda linnanimed** tähestikulises järjekorras.
+   
    ![Linnanimed](https://github.com/user-attachments/assets/2eacfcad-2cc7-4b62-b804-2d75ab04e2c5)
 
-3. **Kuvada linn ja sinna reisimise maksumus**, kuid Hiina jüaanides vahetuskursi järgi.
+4. **Kuvada linn ja sinna reisimise maksumus**, kuid Hiina jüaanides vahetuskursi järgi.
    ![Reisimise maksumus](https://github.com/user-attachments/assets/978bf2b6-66b5-4de0-8e38-5c176663cbfd)
 
 ---
