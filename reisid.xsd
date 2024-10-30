@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" attributeFormDefault="unqualified" elementFormDefault="qualified" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+	<xs:element name="reisid">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element maxOccurs="unbounded" name="reis">
+					<xs:complexType>
+						<xs:sequence>
+							<xs:element name="sihtkoha_linn" type="xs:string" />
+							<xs:element name="hind" type="xs:string" />
+							<xs:element name="inimeste_arv" type="xs:unsignedByte" />
+							<xs:element name="kuupaev" type="xs:date" />
+							<xs:element name="lennureis_kaasas" type="xs:unsignedByte" />
+							<xs:element name="hotell">
+								<xs:complexType>
+									<xs:sequence>
+										<xs:element name="hotelli_aadress" type="xs:string" />
+										<xs:element name="toitumine_kaasas" type="xs:unsignedByte" />
+										<xs:element name="hotelli_tarnide" type="xs:unsignedByte" />
+										<xs:element name="oode_arv" type="xs:unsignedByte" />
+									</xs:sequence>
+								</xs:complexType>
+							</xs:element>
+						</xs:sequence>
+						<xs:attribute name="sihtkoha_linn" type="xs:string" use="required" />
+					</xs:complexType>
+				</xs:element>
+			</xs:sequence>
+		</xs:complexType>
+	</xs:element>
+</xs:schema>
