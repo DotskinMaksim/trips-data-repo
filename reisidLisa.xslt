@@ -284,7 +284,7 @@
 
 		<hr/>
 		<h3>8. Kuva kõik xml andmed tabelina, kus read on üle rea erineva värviga.</h3>
-		<h3>Paarimatu read värvitud mustaks, ühtlased valgeks.</h3>
+		<h3>Paarimatu read värvitud valgeks, paarisread mustaks.</h3>
 
 
 		<table>
