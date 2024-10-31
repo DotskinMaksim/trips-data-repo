@@ -36,7 +36,7 @@
 
 ### 8. XML Andmete Kuvamine
 - **Kuva kõik XML-andmed tabelina**, kus read on üle rea erineva värviga.
-- Paarimatu read värvitud mustaks, ühtlased valgeks.
+- Paarimatu read värvitud valgeks, paarisread mustaks.
 <div style="border: 2px solid #000; padding: 10px; display: inline-block;">
     <img src="https://github.com/user-attachments/assets/68ea4c0a-3107-4c30-ac17-898e122b10e5" alt="Reiside sortimine" style="max-width: 100%; height: auto;">
 </div>
