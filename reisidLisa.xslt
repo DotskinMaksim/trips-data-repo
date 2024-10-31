@@ -284,6 +284,8 @@
 
 		<hr/>
 		<h3>8. Kuva kõik xml andmed tabelina, kus read on üle rea erineva värviga.</h3>
+		<h3>Paarimatu read värvitud mustaks, ühtlased valgeks.</h3>
+
 
 		<table>
 			<!-- Päised -->
@@ -301,22 +303,14 @@
 			<!-- Võtame iga reis -->
 			<xsl:for-each select="reisid/reis">
 				<tr>
-					<!-- Määrake tabeli iga rea ​​taustavärv nii, et iga 5 rida oleks erinevat värvi -->
 					<xsl:choose>
-						<xsl:when test="position() mod 5 = 1">
-							<xsl:attribute name="style">background-color: #FFCCCC;</xsl:attribute>
-						</xsl:when>
-						<xsl:when test="position() mod 5 = 2">
-							<xsl:attribute name="style">background-color: #CCFFCC;</xsl:attribute>
-						</xsl:when>
-						<xsl:when test="position() mod 5 = 3">
-							<xsl:attribute name="style">background-color: #CCCCFF;</xsl:attribute>
-						</xsl:when>
-						<xsl:when test="position() mod 5 = 4">
-							<xsl:attribute name="style">background-color: #FFFFCC;</xsl:attribute>
+						<!-- Kui rea number jagub kahega ilma jäägita, siis värvitame mustiga, ja tekst valgega -->
+						<xsl:when test="position() mod 2 = 0">
+							<xsl:attribute name="style">background-color: black; color: white;</xsl:attribute>
 						</xsl:when>
 						<xsl:otherwise>
-							<xsl:attribute name="style">background-color: #FFCCFF;</xsl:attribute>
+							<!-- Kui mitte, siis värvitame valgega ja tekst mustiga -->
+							<xsl:attribute name="style">background-color: white; color: black;</xsl:attribute>
 						</xsl:otherwise>
 					</xsl:choose>
 					<td>
@@ -332,7 +326,6 @@
 						<xsl:value-of select="kuupaev"/>
 					</td>
 					<td>
-						<!-- Et tabelis oleks jah/ei, mitte 1/0 - loome tingimust kui 1 - jah, kui erinev - ei -->
 						<xsl:choose>
 							<xsl:when test="lennureis_kaasas = 1">jah</xsl:when>
 							<xsl:otherwise>ei</xsl:otherwise>
@@ -342,7 +335,6 @@
 						<xsl:value-of select="hotell/hotelli_aadress"/>
 					</td>
 					<td>
-						<!-- Et tabelis oleks jah/ei, mitte 1/0 - loome tingimust kui 1 - jah, kui erinev - ei -->
 						<xsl:choose>
 							<xsl:when test="hotell/toitumine_kaasas = 1">jah</xsl:when>
 							<xsl:otherwise>ei</xsl:otherwise>
@@ -357,6 +349,7 @@
 				</tr>
 			</xsl:for-each>
 		</table>
+
 
 		<!-- Oma ülesanned -->
 		<hr/>
